@@ -16,4 +16,4 @@ The model was trained using [PyTorch](http://pytorch.org/).
 
 # Metrics
 
-The model achieved xx RMSE.
+The model achieved 0.9858 MSE.
