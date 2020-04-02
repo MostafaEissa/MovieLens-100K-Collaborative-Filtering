@@ -12,7 +12,7 @@ Note: the dataset was not uploaded in this repository.
 
 
 
-The model was fine tuned using [scikit-learn](https://scikit-learn.org/) and [PyTorch](http://pytorch.org/).
+The model was trained using [PyTorch](http://pytorch.org/).
 
 # Metrics
 
